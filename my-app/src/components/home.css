@@ -1,0 +1,32 @@
+h1 {
+    background-color: green;
+    padding: 15px 15px 15px 15px;
+    width: 150px;
+    text-align: center;
+    margin: 15px auto;
+    color: aliceblue;
+}
+.div{
+    background-color: yellow;
+    text-align: center;
+    padding: 15px 15px 15px 15px;
+}
+.increment{
+    background-color: purple;
+}
+.reset{
+    background-color: brown;
+}
+.decrement{
+    background-color: blueviolet;
+}
+button{
+    background-color: blue;
+    padding: 15px 15px 15px 15px;
+    width: 150px;
+    font-size: 25px;
+    font-weight: bold;
+    color: aliceblue;
+    text-align: center;
+    margin: 0 10px;
+}
